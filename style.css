@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Extended&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+}
+.box{
+    align:center;
+    width: 300ox;
+    height: 300px;
+    background-color: aqua;
+    margin: auto;
+}
+p{
+   /* text-decoration: line-through red;*/
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 2px -2px .5px rgb(245, 47, 2);
+    line-height: 20px;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    font-size: 30px;
+    font-weight: bold;
+     font-family: "Libre Barcode 39 Extended", system-ui;
+}
+div{
+    border: 2px solid yellow;
+    width: 400px;
+    height: 400px;
+    background-color: lightblue; 
+ 
+}

@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    display:flex;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+}
+.box1{
+    background-color: beige;
+    height: "400px";
+    
+}
+.box2{
+    background-color: azure;
+    height: "400px";
+}
+.box3{
+    background-color: antiquewhite;
+    height: "400px";
+}
